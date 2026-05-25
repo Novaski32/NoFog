@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nofog",
+  "name": "NoFog",
+  "description": "Removes fog from water and lava.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["You"],
+  "credits": "Forge team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
